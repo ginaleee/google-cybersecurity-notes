@@ -78,7 +78,4 @@ Loops allow repeated execution of code based on sequences or conditions. Securit
 * **While loops** → use with conditions that must remain True.
 * **break / continue** → control execution flow inside loops.
 
----
-
-Do you want me to also make a **shorter version with only the essentials** (like 5–6 bullet points) for your GitHub README?
 
